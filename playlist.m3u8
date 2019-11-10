@@ -175,6 +175,8 @@ http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225964/1.m3u8
 #EXTINF:-1 tvg-logo=Running man .png tvg-name=Running man  group-title=综艺财经,Running man 
 http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=明星大侦探.png tvg-name=明星大侦探 group-title=综艺财经,明星大侦探
+http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=向往的生活.png tvg-name=向往的生活 group-title=综艺财经,向往的生活
 http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=极限男人帮.png tvg-name=极限男人帮 group-title=综艺财经,极限男人帮
@@ -331,8 +333,6 @@ http://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2
 http://aldirect.hls.huya.com/huyalive/28466698-2689658612-11551995775944753152-2847699196-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=一代枭雄.png tvg-name=一代枭雄 group-title=电视剧频道,一代枭雄
 http://aldirect.hls.huya.com/huyalive/30765679-2497712118-10727591861632892928-3049003126-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo=重案六组.png tvg-name=重案六组 group-title=电视剧频道,重案六组
-http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=大宋提刑官.png tvg-name=大宋提刑官 group-title=电视剧频道,大宋提刑官
 http://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=蓝色大海的传说.png tvg-name=蓝色大海的传说 group-title=电视剧频道,蓝色大海的传说
