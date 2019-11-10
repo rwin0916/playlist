@@ -175,6 +175,16 @@ http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225964/1.m3u8
 #EXTINF:-1 tvg-logo=Running man .png tvg-name=Running man  group-title=综艺财经,Running man 
 http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=向往的生活.png tvg-name=向往的生活 group-title=综艺财经,向往的生活
+http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=极限男人帮.png tvg-name=极限男人帮 group-title=综艺财经,极限男人帮
+http://aldirect.hls.huya.com/huyalive/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=欢乐喜剧人.png tvg-name=欢乐喜剧人 group-title=综艺财经,欢乐喜剧人
+http://aldirect.hls.huya.com/huyalive/29169025-2686220848-11537230691993387008-2847687614-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=奔跑的兄弟.png tvg-name=奔跑的兄弟 group-title=综艺财经,奔跑的兄弟
+http://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=今晚80后脱口秀.png tvg-name=今晚80后脱口秀 group-title=综艺财经,今晚80后脱口秀
+http://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=第1财经.png tvg-name=第1财经 group-title=综艺财经,第1财经
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-logo=寰宇地理.png tvg-name=寰宇地理 group-title=综艺财经,寰宇地理
@@ -307,6 +317,14 @@ http://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2
 http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=甄嬛传.png tvg-name=甄嬛传 group-title=电视剧频道,甄嬛传
 http://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=伪装者.png tvg-name=伪装者 group-title=电视剧频道,伪装者
+http://tx.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=海豹突击队.png tvg-name=海豹突击队 group-title=电视剧频道,海豹突击队
+http://aldirect.hls.huya.com/huyalive/29169025-2750736098-11814321580836651008-3048991666-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=使徒行者.png tvg-name=使徒行者 group-title=电视剧频道,使徒行者
+http://aldirect.hls.huya.com/huyalive/28466698-2689652032-11551967515059945472-2847687604-10057-A-1525509264-1.m3u8
+#EXTINF:-1 tvg-logo=使徒行者.png tvg-name=使徒行者 group-title=电视剧频道,使徒行者
+http://tx.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=父母爱情.png tvg-name=父母爱情 group-title=电视剧频道,父母爱情
 http://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo=正阳门下.png tvg-name=正阳门下 group-title=电视剧频道,正阳门下
