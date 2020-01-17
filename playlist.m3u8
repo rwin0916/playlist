@@ -1,44 +1,44 @@
 ﻿#EXTM3U 
 #EXTINF:-1 tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=央视频道,CCTV1
-http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV2.png tvg-name=CCTV2 group-title=央视频道,CCTV2
-http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV3.png tvg-name=CCTV3 group-title=央视频道,CCTV3
-http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=央视频道,CCTV4
-http://223.110.241.139:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-4-CQ/G_CCTV-4-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=央视频道,CCTV5
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=央视频道,CCTV5+
-http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV6.png tvg-name=CCTV6 group-title=央视频道,CCTV6
-http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=央视频道,CCTV7
-http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=央视频道,CCTV8
-http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=央视频道,CCTV9
-http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-9/G_CCTV-9/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=央视频道,CCTV10
-http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=央视频道,CCTV11
-http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=央视频道,CCTV12
-http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/1.m3u8
+http://223.110.241.149:6610/gitv/live1/CCTV-12/CCTV-12/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=央视频道,CCTV13
-http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=央视频道,CCTV14
-http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-14/G_CCTV-14/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=央视频道,CCTV15
-http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-15/G_CCTV-15/1.m3u8
 #EXTINF:-1 tvg-logo=CCTVNEWS.png tvg-name=CCTVNEWS group-title=央视频道,CCTVNEWS
-http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/1.m3u8
 #EXTINF:-1 tvg-logo=发现之旅.png tvg-name=发现之旅 group-title=央视频道,发现之旅
-http://223.110.241.139:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/1.m3u8
 #EXTINF:-1 tvg-logo=老故事.png tvg-name=老故事 group-title=央视频道,老故事
-http://223.110.241.139:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/1.m3u8
 #EXTINF:-1 tvg-logo=女性时尚.png tvg-name=女性时尚 group-title=央视频道,女性时尚
-http://223.110.241.139:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/1.m3u8
+http://223.110.241.149:6610/gitv/live1/G_NVXINGSS/G_NVXINGSS/1.m3u8
 #EXTINF:-1 tvg-logo=凤凰中文 .png tvg-name=凤凰中文  group-title=卫视频道,凤凰中文 
 http://117.169.120.217:8080/live/fhchinese/.m3u8
 #EXTINF:-1 tvg-logo=凤凰资讯.png tvg-name=凤凰资讯 group-title=卫视频道,凤凰资讯
@@ -144,11 +144,11 @@ http://183.207.249.15/PLTV/3/224/3221225531/index.m3u8
 #EXTINF:-1 tvg-logo=Newtv超级电视剧.png tvg-name=Newtv超级电视剧 group-title=电视剧频道,Newtv超级电视剧
 http://112.50.243.7/PLTV/88888888/224/3221225806/1.m3u8
 #EXTINF:-1 tvg-logo=卡酷少儿.png tvg-name=卡酷少儿 group-title=动画频道,卡酷少儿
-http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
+http://223.110.241.149:6610/gitv/live1/G_KAKU/G_KAKU/
 #EXTINF:-1 tvg-logo=金鹰卡通.png tvg-name=金鹰卡通 group-title=动画频道,金鹰卡通
-http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/
 #EXTINF:-1 tvg-logo=哈哈炫动.png tvg-name=哈哈炫动 group-title=动画频道,哈哈炫动
-http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
+http://223.110.241.149:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
 #EXTINF:-1 tvg-logo=名侦探柯南.png tvg-name=名侦探柯南 group-title=动画频道,名侦探柯南
 http://alhls.cdn.zhanqi.tv/zqlive/69410_SgVxl.m3u8
 #EXTINF:-1 tvg-logo=宠物小精灵.png tvg-name=宠物小精灵 group-title=动画频道,宠物小精灵
@@ -164,9 +164,9 @@ http://112.50.243.8/PLTV/88888888/224/3221226139/1.m3u8
 #EXTINF:-1 tvg-logo=电竞世界.png tvg-name=电竞世界 group-title=体育电竞,电竞世界
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
 #EXTINF:-1 tvg-logo=吉林篮球.png tvg-name=吉林篮球 group-title=体育电竞,吉林篮球
-http://223.110.241.139:6610/gitv/live1/G_LANQIU/G_LANQIU/
+http://223.110.241.149:6610/gitv/live1/G_LANQIU/G_LANQIU/
 #EXTINF:-1 tvg-logo=高尔夫.png tvg-name=高夫1 group-title=体育电竞,高尔夫
-http://223.110.241.139:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
+http://223.110.241.149:6610/gitv/live1/G_GAOERFU/G_GAOERFU/
 #EXTINF:-1 tvg-logo=游戏直播.png tvg-name=游戏直播 group-title=体育电竞,游戏直播
 http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
 #EXTINF:-1 tvg-logo=极速汽车.png tvg-name=极速汽车 group-title=体育电竞,极速汽车
@@ -202,17 +202,17 @@ http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
 #EXTINF:-1 tvg-logo=纪实.png tvg-name=纪实 group-title=综艺财经,纪实
 http://112.50.243.8/PLTV/88888888/224/3221226958/1.m3u8
 #EXTINF:-1 tvg-logo=新娱乐.png tvg-name=新娱乐 group-title=综艺财经,新娱乐
-http://223.110.241.139:6610/gitv/live1/G_XINYULE/G_XINYULE/
+http://223.110.241.149:6610/gitv/live1/G_XINYULE/G_XINYULE/
 #EXTINF:-1 tvg-logo=家庭理财.png tvg-name=家庭理财 group-title=综艺财经,家庭理财
-http://223.110.241.139:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
+http://223.110.241.149:6610/gitv/live1/G_JIATINGLC/G_JIATINGLC/
 #EXTINF:-1 tvg-logo=弈坛春秋.png tvg-name=弈坛春秋 group-title=综艺财经,弈坛春秋
-http://223.110.241.139:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
+http://223.110.241.149:6610/gitv/live1/G_YITANCQ/G_YITANCQ/
 #EXTINF:-1 tvg-logo=中华美食.png tvg-name=中华美食 group-title=综艺财经,中华美食
-http://223.110.241.139:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
+http://223.110.241.149:6610/gitv/live1/G_ZHENGJUANZX/G_ZHENGJUANZX/
 #EXTINF:-1 tvg-logo=中国交通.png tvg-name=中国交通 group-title=综艺财经,中国交通
-http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+http://223.110.241.149:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
 #EXTINF:-1 tvg-logo=国学频道.png tvg-name=国学频道 group-title=综艺财经,国学频道
-http://223.110.241.139:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+http://223.110.241.149:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
 #EXTINF:-1 tvg-logo=求索记录.png tvg-name=求索记录 group-title=综艺财经,求索记录
 http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-logo=岳云鹏相声.png tvg-name=岳云鹏相声 group-title=综艺财经,岳云鹏相声
@@ -302,7 +302,7 @@ http://aldirect.hls.huya.com/huyalive/29141112-2689676026-11552070568505245696-2
 #EXTINF:-1 tvg-logo=HBO 中文字幕.png tvg-name=HBO中文字幕 group-title=电影频道,HBO中文字幕
 http://218.202.220.2:5000/nn_live.m3u8?id=HBO
 #EXTINF:-1 tvg-logo=京视剧场.png tvg-name=京视剧场 group-title=电视剧频道,京视剧场
-http://223.110.241.139:6610/gitv/live1/G_JINGJU/G_JINGJU/
+http://223.110.241.149:6610/gitv/live1/G_JINGJU/G_JINGJU/
 #EXTINF:-1 tvg-logo=老友记.png tvg-name=老友记 group-title=电视剧频道,老友记
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
 #EXTINF:-1 tvg-logo=爱情公寓.png tvg-name=爱情公寓 group-title=电视剧频道,爱情公寓
@@ -479,5 +479,4 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
 #EXTINF:-1 tvg-logo=WWE经典合集.png tvg-name=WWE经典合集 group-title=体育电竞,WWE经典合集
 https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-363-0530-1943-17560_mp4hd2v3.m3u8?title=2019WWE%E6%91%94%E8%B7%A4%E7%8B%82%E7%83%AD%E5%A4%A7%E8%B5%9B%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=96wVE%2FN6QgsCAXApO1E9Y292&cdnQuality=720p&quality=4&ccode=live05010101&expire=21600&psid=897E7194D0F6C9F6C022E6FFF9DEADF8&ups_client_netip=112.41.17.63&ups_ts=1559471983&ups_userid=0&utid=96wVE%2FN6QgsCAXApO1E9Y292&vid=8019485_8024051&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-363-0530-1943-17560_mp4hd2v3&vkey=B765456c30681e8e8bb1683563aa02395
-#EXTINF:-1 tvg-logo=郑秀文.png tvg-name=郑秀文 group-title=电影频道,郑秀文
-https://lvo-live.youku.com/67756D6080932713CFC02204E/03000700005CB964F20DF87055EEB30DB2D8F5-2326-4C2B-93A3-EBF0A9D83F65-00469.ts?title=%E9%83%91%E7%A7%80%E6%96%87%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=96wVE%2FN6QgsCAXApO1E9Y292&cdnQuality=720p&quality=4&ccode=live05010101&expire=21600&psid=5A0140002DA3EF5E1FEAE4BF8F65FB20&ups_client_netip=112.41.17.63&ups_ts=1559472858&ups_userid=0&utid=96wVE%2FN6QgsCAXApO1E9Y292&vid=8018673_8022966&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-299-0517-1113-54163_mp4hd2v3&vkey=Bef907f54eb4b17279ab16fca99d997a0
+
