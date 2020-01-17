@@ -1,0 +1,347 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo=CCTV1.png tvg-name=CCTV1 group-title=央视频道,CCTV1
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000133.m3u8
+#EXTINF:-1 tvg-logo=CCTV2.png tvg-name=CCTV2 group-title=央视频道,CCTV2
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000217.m3u8
+#EXTINF:-1 tvg-logo=CCTV3.png tvg-name=CCTV3 group-title=央视频道,CCTV3
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000134.m3u8
+#EXTINF:-1 tvg-logo=CCTV4.png tvg-name=CCTV4 group-title=央视频道,CCTV4
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000315.m3u8
+#EXTINF:-1 tvg-logo=CCTV5.png tvg-name=CCTV5 group-title=央视频道,CCTV5
+http://112.17.40.145/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 tvg-logo=CCTV5+.png tvg-name=CCTV5+ group-title=央视频道,CCTV5+
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000138.m3u8
+#EXTINF:-1 tvg-logo=CCTV6.png tvg-name=CCTV6 group-title=央视频道,CCTV6
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000136.m3u8
+#EXTINF:-1 tvg-logo=CCTV7.png tvg-name=CCTV7 group-title=央视频道,CCTV7
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000331.m3u8
+#EXTINF:-1 tvg-logo=CCTV8.png tvg-name=CCTV8 group-title=央视频道,CCTV8
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000137.m3u8
+#EXTINF:-1 tvg-logo=CCTV9.png tvg-name=CCTV9 group-title=央视频道,CCTV9
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000249.m3u8
+#EXTINF:-1 tvg-logo=CCTV10.png tvg-name=CCTV10 group-title=央视频道,CCTV10
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000218.m3u8
+#EXTINF:-1 tvg-logo=CCTV11.png tvg-name=CCTV11 group-title=央视频道,CCTV11
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000020.m3u8
+#EXTINF:-1 tvg-logo=CCTV12.png tvg-name=CCTV12 group-title=央视频道,CCTV12
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000219.m3u8
+#EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=央视频道,CCTV13
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000022.m3u8
+#EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=央视频道,CCTV14
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000248.m3u8
+#EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=央视频道,CCTV15
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV17.png tvg-name=CCTV17 group-title=央视频道,CCTV17
+http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5E03E8B3U31901110K77751E76I853CE172PBM3231086V1044EZ33519WE5878B1D031&playtoken=ABCDEFGHIGK&programid=4200000332.m3u8
+#EXTINF:-1 tvg-logo=湖南卫视 .png tvg-name=湖南卫视  group-title=卫视频道,湖南卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+#EXTINF:-1 tvg-logo=江苏卫视 .png tvg-name=江苏卫视  group-title=卫视频道,江苏卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8
+#EXTINF:-1 tvg-logo=浙江卫视 .png tvg-name=浙江卫视  group-title=卫视频道,浙江卫视 
+http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8
+#EXTINF:-1 tvg-logo=东方卫视 .png tvg-name=东方卫视  group-title=卫视频道,东方卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225828/1.m3u8
+#EXTINF:-1 tvg-logo=北京卫视 .png tvg-name=北京卫视  group-title=卫视频道,北京卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225826/1.m3u8
+#EXTINF:-1 tvg-logo=广东卫视 .png tvg-name=广东卫视  group-title=卫视频道,广东卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225824/1.m3u8
+#EXTINF:-1 tvg-logo=深圳卫视 .png tvg-name=深圳卫视  group-title=卫视频道,深圳卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225848/1.m3u8
+#EXTINF:-1 tvg-logo=天津卫视 .png tvg-name=天津卫视  group-title=卫视频道,天津卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8
+#EXTINF:-1 tvg-logo=安徽卫视 .png tvg-name=安徽卫视  group-title=卫视频道,安徽卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225945/1.m3u8
+#EXTINF:-1 tvg-logo=山东卫视 .png tvg-name=山东卫视  group-title=卫视频道,山东卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225843/1.m3u8
+#EXTINF:-1 tvg-logo=湖北卫视 .png tvg-name=湖北卫视  group-title=卫视频道,湖北卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
+#EXTINF:-1 tvg-logo=辽宁卫视 .png tvg-name=辽宁卫视  group-title=卫视频道,辽宁卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
+#EXTINF:-1 tvg-logo=江西卫视 .png tvg-name=江西卫视  group-title=卫视频道,江西卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225868/1.m3u8
+#EXTINF:-1 tvg-logo=河北卫视 .png tvg-name=河北卫视  group-title=卫视频道,河北卫视 
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:-1 tvg-logo=黑龙江卫视 .png tvg-name=黑龙江卫视  group-title=卫视频道,黑龙江卫视 
+http://112.50.243.8/PLTV/88888888/224/3221225862/1.m3u8
+#EXTINF:-1 tvg-logo=东南卫视.png tvg-name=东南卫视 group-title=卫视频道,东南卫视
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225961/1.m3u8
+#EXTINF:-1 tvg-logo=四川卫视.png tvg-name=四川卫视 group-title=卫视频道,四川卫视
+http://39.134.65.87:80/PLTV/88888888/224/3221225497/index.m3u8
+#EXTINF:-1 tvg-logo=广西卫视.png tvg-name=广西卫视 group-title=卫视频道,广西卫视
+http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226055/index.m3u8
+#EXTINF:-1 tvg-logo=河南卫视.png tvg-name=河南卫视 group-title=卫视频道,河南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225842/1.m3u8
+#EXTINF:-1 tvg-logo=吉林卫视.png tvg-name=吉林卫视 group-title=卫视频道,吉林卫视
+http://112.50.243.8/PLTV/88888888/224/3221225851/1.m3u8
+#EXTINF:-1 tvg-logo=山西卫视.png tvg-name=山西卫视 group-title=卫视频道,山西卫视
+http://112.50.243.8/PLTV/88888888/224/3221225839/1.m3u8
+#EXTINF:-1 tvg-logo=贵州卫视.png tvg-name=贵州卫视 group-title=卫视频道,贵州卫视
+http://112.50.243.8/PLTV/88888888/224/3221226864/1.m3u8
+#EXTINF:-1 tvg-logo=青海卫视.png tvg-name=青海卫视 group-title=卫视频道,青海卫视
+http://112.50.243.8/PLTV/88888888/224/3221225841/1.m3u8
+#EXTINF:-1 tvg-logo=云南卫视.png tvg-name=云南卫视 group-title=卫视频道,云南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225853/1.m3u8
+#EXTINF:-1 tvg-logo=宁夏卫视.png tvg-name=宁夏卫视 group-title=卫视频道,宁夏卫视
+http://39.134.65.162/PLTV/88888888/224/3221225579/index.m3u8
+#EXTINF:-1 tvg-logo=新疆卫视.png tvg-name=新疆卫视 group-title=卫视频道,新疆卫视
+http://223.110.243.136:80/PLTV/3/224/3221225523/index.m3u8
+#EXTINF:-1 tvg-logo=海南卫视.png tvg-name=海南卫视 group-title=卫视频道,海南卫视
+http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1 tvg-logo=内蒙古卫视.png tvg-name=内蒙古卫视 group-title=卫视频道,内蒙古卫视
+http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8
+#EXTINF:-1 tvg-logo=CETV1.png tvg-name=CETV1 group-title=卫视频道,CETV1
+http://112.50.243.8/PLTV/88888888/224/3221226954/1.m3u8
+#EXTINF:-1 tvg-logo=五星新闻综合.png tvg-name=五星新闻综合 group-title=卫视频道,五星新闻综合
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225973/1.m3u8
+#EXTINF:-1 tvg-logo=宠物小精灵.png tvg-name=宠物小精灵 group-title=动画频道,宠物小精灵
+http://aldirect.hls.huya.com/huyalive/29106097-2689280818-11550373163070128128-2777037662-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=犬夜叉.png tvg-name=犬夜叉 group-title=动画频道,犬夜叉
+http://aldirect.hls.huya.com/huyalive/29359996-2689639786-11551914918890438656-2847687572-10057-A-1525504686-1.m3u8
+#EXTINF:-1 tvg-logo=中华小当家.png tvg-name=中华小当家 group-title=动画频道,中华小当家
+http://aldirect.hls.huya.com/huyalive/29106097-2689282824-11550381778774523904-2789274526-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=动漫秀场.png tvg-name=动漫秀场 group-title=动画频道,动漫秀场
+http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 tvg-logo=电竞世界.png tvg-name=电竞世界 group-title=体育电竞,电竞世界
+http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+#EXTINF:-1 tvg-logo=游戏直播.png tvg-name=游戏直播 group-title=体育电竞,游戏直播
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
+#EXTINF:-1 tvg-logo=极速汽车.png tvg-name=极速汽车 group-title=体育电竞,极速汽车
+http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
+#EXTINF:-1 tvg-logo=五星体育.png tvg-name=五星体育 group-title=体育电竞,五星体育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225964/1.m3u8
+#EXTINF:-1 tvg-logo=Running man .png tvg-name=Running man  group-title=综艺财经,Running man 
+http://aldirect.hls.huya.com/huyalive/29359996-2689613128-11551800423652261888-2847687548-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=明星大侦探.png tvg-name=明星大侦探 group-title=综艺财经,明星大侦探
+http://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=向往的生活.png tvg-name=向往的生活 group-title=综艺财经,向往的生活
+http://aldirect.hls.huya.com/huyalive/29169025-2686221456-11537233303333502976-2789274584-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=极限男人帮.png tvg-name=极限男人帮 group-title=综艺财经,极限男人帮
+http://aldirect.hls.huya.com/huyalive/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=欢乐喜剧人.png tvg-name=欢乐喜剧人 group-title=综艺财经,欢乐喜剧人
+http://aldirect.hls.huya.com/huyalive/29169025-2686220848-11537230691993387008-2847687614-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=奔跑的兄弟.png tvg-name=奔跑的兄弟 group-title=综艺财经,奔跑的兄弟
+http://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=今晚80后脱口秀.png tvg-name=今晚80后脱口秀 group-title=综艺财经,今晚80后脱口秀
+http://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=第1财经.png tvg-name=第1财经 group-title=综艺财经,第1财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 tvg-logo=寰宇地理.png tvg-name=寰宇地理 group-title=综艺财经,寰宇地理
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
+#EXTINF:-1 tvg-logo=魅力音乐.png tvg-name=魅力音乐 group-title=综艺财经,魅力音乐
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
+#EXTINF:-1 tvg-logo=生活时尚.png tvg-name=生活时尚 group-title=综艺财经,生活时尚
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+#EXTINF:-1 tvg-logo=东方财经.png tvg-name=东方财经 group-title=综艺财经,东方财经
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225933/1.m3u8
+#EXTINF:-1 tvg-logo=七彩戏剧.png tvg-name=七彩戏剧 group-title=综艺财经,七彩戏剧
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+#EXTINF:-1 tvg-logo=纪实.png tvg-name=纪实 group-title=综艺财经,纪实
+http://112.50.243.8/PLTV/88888888/224/3221226958/1.m3u8
+#EXTINF:-1 tvg-logo=求索记录.png tvg-name=求索记录 group-title=综艺财经,求索记录
+http://112.17.40.140/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-logo=岳云鹏相声.png tvg-name=岳云鹏相声 group-title=综艺财经,岳云鹏相声
+http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8
+#EXTINF:-1 tvg-logo=赵本山小品.png tvg-name=赵本山小品 group-title=综艺财经,赵本山小品
+https://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=BesTV4k.png tvg-name=BesTV4k group-title=电影频道,BesTV4k
+http://112.17.40.140/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 tvg-logo=黑莓电影.png tvg-name=黑莓电影 group-title=电影频道,黑莓电影
+http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-logo=轮播高清电影2.png tvg-name=轮播高清电影2 group-title=电影频道,轮播高清电影2
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 tvg-logo=战争电影.png tvg-name=战争电影 group-title=电影频道,战争电影
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=轮播高清电影4.png tvg-name=轮播高清电影4 group-title=电影频道,轮播高清电影4
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=怪物科幻.png tvg-name=怪物科幻 group-title=电影频道,怪物科幻
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=漫威电影.png tvg-name=漫威电影 group-title=电影频道,漫威电影
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=轮播电影.png tvg-name=轮播电影 group-title=电影频道,轮播电影
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=复仇犯罪.png tvg-name=复仇犯罪 group-title=电影频道,复仇犯罪
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=女神港片.png tvg-name=女神港片 group-title=电影频道,女神港片
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=丧尸电影.png tvg-name=丧尸电影 group-title=电影频道,丧尸电影
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=轮播电影.png tvg-name=轮播电影 group-title=电影频道,轮播电影
+http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=古惑仔电影.png tvg-name=古惑仔电影 group-title=电影频道,古惑仔电影
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=李连杰.png tvg-name=李连杰 group-title=电影频道,李连杰
+http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=刘德华.png tvg-name=刘德华 group-title=电影频道,刘德华
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=周星驰.png tvg-name=周星驰 group-title=电影频道,周星驰
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=成龙.png tvg-name=成龙 group-title=电影频道,成龙
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=林正英.png tvg-name=林正英 group-title=电影频道,林正英
+http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=周润发.png tvg-name=周润发 group-title=电影频道,周润发
+http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=洪金宝.png tvg-name=洪金宝 group-title=电影频道,洪金宝
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=甄子丹.png tvg-name=甄子丹 group-title=电影频道,甄子丹
+http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
+#EXTINF:-1 tvg-logo=古天乐.png tvg-name=古天乐 group-title=电影频道,古天乐
+http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+#EXTINF:-1 tvg-logo=徐克导演.png tvg-name=徐克导演 group-title=电影频道,徐克导演
+http://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8
+#EXTINF:-1 tvg-logo=王晶导演.png tvg-name=王晶导演 group-title=电影频道,王晶导演
+http://tx.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=赌片合集.png tvg-name=赌片合集 group-title=电影频道,赌片合集
+https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=好莱坞电影3.png tvg-name=好莱坞电影3 group-title=电影频道,好莱坞电影3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=DC漫画.png tvg-name=DC漫画 group-title=电影频道,DC漫画
+http://aldirect.hls.huya.com/huyalive/29359996-2689605744-11551768709613748224-2847699112-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=反贪风暴系列.png tvg-name=反贪风暴系列 group-title=电影频道,反贪风暴系列
+http://aldirect.hls.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=杰森斯坦森.png tvg-name=杰森斯坦森 group-title=电影频道,杰森斯坦森
+http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=吴京.png tvg-name=吴京 group-title=电影频道,吴京
+http://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=动画电影.png tvg-name=动画电影 group-title=电影频道,动画电影
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
+#EXTINF:-1 tvg-logo=碟中谍.png tvg-name=碟中谍 group-title=电影频道,碟中谍
+http://aldirect.hls.huya.com/huyalive/29359996-2689642844-11551928052900429824-2847699142-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=City都市剧场.png tvg-name=City都市剧场 group-title=电影频道,City都市剧场
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
+#EXTINF:-1 tvg-logo=五星ICS.png tvg-name=五星ICS group-title=电影频道,五星ICS
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225972/1.m3u8
+#EXTINF:-1 tvg-logo=沈腾.png tvg-name=沈腾 group-title=电影频道,沈腾
+http://aldirect.hls.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=黄渤.png tvg-name=黄渤 group-title=电影频道,黄渤
+http://aldirect.hls.huya.com/huyalive/29141112-2689676026-11552070568505245696-2847699238-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=HBO 中文字幕.png tvg-name=HBO中文字幕 group-title=电影频道,HBO中文字幕
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 tvg-logo=京视剧场.png tvg-name=京视剧场 group-title=电视剧频道,京视剧场
+http://223.110.241.139:6610/gitv/live1/G_JINGJU/G_JINGJU/
+#EXTINF:-1 tvg-logo=老友记.png tvg-name=老友记 group-title=电视剧频道,老友记
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 tvg-logo=爱情公寓.png tvg-name=爱情公寓 group-title=电视剧频道,爱情公寓
+http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=龙门镖局.png tvg-name=龙门镖局 group-title=电视剧频道,龙门镖局
+http://aldirect.hls.huya.com/huyalive/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=琅琊榜.png tvg-name=琅琊榜 group-title=电视剧频道,琅琊榜
+http://aldirect.hls.huya.com/huyalive/94525224-2604793760-11187504012024872960-2847699160-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=好先生.png tvg-name=好先生 group-title=电视剧频道,好先生
+http://aldirect.hls.huya.com/huyalive/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=人民的名义.png tvg-name=人民的名义 group-title=电视剧频道,人民的名义
+http://aldirect.hls.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=急诊科医生.png tvg-name=急诊科医生 group-title=电视剧频道,急诊科医生
+http://aldirect.hls.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=甄嬛传.png tvg-name=甄嬛传 group-title=电视剧频道,甄嬛传
+http://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=伪装者.png tvg-name=伪装者 group-title=电视剧频道,伪装者
+http://tx.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=海豹突击队.png tvg-name=海豹突击队 group-title=电视剧频道,海豹突击队
+http://aldirect.hls.huya.com/huyalive/29169025-2750736098-11814321580836651008-3048991666-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=使徒行者.png tvg-name=使徒行者 group-title=电视剧频道,使徒行者
+http://aldirect.hls.huya.com/huyalive/28466698-2689652032-11551967515059945472-2847687604-10057-A-1525509264-1.m3u8
+#EXTINF:-1 tvg-logo=使徒行者.png tvg-name=使徒行者 group-title=电视剧频道,使徒行者
+http://tx.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=父母爱情.png tvg-name=父母爱情 group-title=电视剧频道,父母爱情
+http://aldirect.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=正阳门下.png tvg-name=正阳门下 group-title=电视剧频道,正阳门下
+http://aldirect.hls.huya.com/huyalive/28466698-2689658612-11551995775944753152-2847699196-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=一代枭雄.png tvg-name=一代枭雄 group-title=电视剧频道,一代枭雄
+http://aldirect.hls.huya.com/huyalive/30765679-2497712118-10727591861632892928-3049003126-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=大宋提刑官.png tvg-name=大宋提刑官 group-title=电视剧频道,大宋提刑官
+http://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=蓝色大海的传说.png tvg-name=蓝色大海的传说 group-title=电视剧频道,蓝色大海的传说
+http://aldirect.hls.huya.com/huyalive/28466698-2689664584-11552021425489444864-3049003112-10057-A-1525513658-1.m3u8
+#EXTINF:-1 tvg-logo=笑傲江湖.png tvg-name=笑傲江湖 group-title=电视剧频道,笑傲江湖
+http://aldirect.hls.huya.com/huyalive/29359996-2689646434-11551943471833022464-2847699146-10057-A-1525507126-1.m3u8
+#EXTINF:-1 tvg-logo=寻秦记.png tvg-name=寻秦记 group-title=电视剧频道,寻秦记
+http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=潜伏.png tvg-name=潜伏 group-title=电视剧频道,潜伏
+http://aldirect.hls.huya.com/huyalive/29141112-2689670234-11552045692054667264-3048959590-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=越狱.png tvg-name=越狱 group-title=电视剧频道,越狱
+http://aldirect.hls.huya.com/huyalive/28466698-2689664106-11552019372495077376-3049003110-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=伪装者.png tvg-name=伪装者 group-title=电视剧频道,伪装者
+http://aldirect.hls.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=大染坊.png tvg-name=大染坊 group-title=电视剧频道,大染坊
+http://aldirect.hls.huya.com/huyalive/29169025-2686220910-11537230958281359360-2847687608-10057-A-1524018691-1.m3u8
+#EXTINF:-1 tvg-logo=神探狄仁杰.png tvg-name=神探狄仁杰 group-title=电视剧频道,神探狄仁杰
+http://aldirect.hls.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=生活大爆炸.png tvg-name=生活大爆炸 group-title=电视剧频道,生活大爆炸
+http://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=炊事班的故事.png tvg-name=炊事班的故事 group-title=电视剧频道,炊事班的故事
+http://dlhls.cdn.zhanqi.tv/zqlive/275052_NGqzG.m3u8
+#EXTINF:-1 tvg-logo=神雕侠侣古天乐版.png tvg-name=神雕侠侣古天乐版 group-title=电视剧频道,神雕侠侣古天乐版
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
+#EXTINF:-1 tvg-logo=倚天屠龙记苏有朋.png tvg-name=倚天屠龙记苏有朋 group-title=电视剧频道,倚天屠龙记苏有朋
+http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=天龙八部.png tvg-name=天龙八部 group-title=电视剧频道,天龙八部
+http://tx.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=鹿鼎记.png tvg-name=鹿鼎记 group-title=电视剧频道,鹿鼎记
+https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=新三国1.png tvg-name=新三国1 group-title=电视剧频道,新三国1
+https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=新水浒传.png tvg-name=新水浒传 group-title=电视剧频道,新水浒传
+https://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-logo=西游记(86版).png tvg-name=西游记(86版) group-title=电视剧频道,西游记(86版)
+https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=济公.png tvg-name=济公 group-title=电视剧频道,济公
+https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=康熙微服私访记.png tvg-name=康熙微服私访记 group-title=电视剧频道,康熙微服私访记
+https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=康熙王朝.png tvg-name=康熙王朝 group-title=电视剧频道,康熙王朝
+https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=雍正王朝.png tvg-name=雍正王朝 group-title=电视剧频道,雍正王朝
+https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=铁齿铜牙纪晓岚.png tvg-name=铁齿铜牙纪晓岚 group-title=电视剧频道,铁齿铜牙纪晓岚
+http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=少年包青天.png tvg-name=少年包青天 group-title=电视剧频道,少年包青天
+http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo=亮剑.png tvg-name=亮剑 group-title=电视剧频道,亮剑
+http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=士兵突击.png tvg-name=士兵突击 group-title=电视剧频道,士兵突击
+http://aldirect.hls.huya.com/huyalive/94525224-2579683622-11079656790516826112-2789274566-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=火蓝刀锋.png tvg-name=火蓝刀锋 group-title=电视剧频道,火蓝刀锋
+http://aldirect.hls.huya.com/huyalive/94525224-2467341812-10597152390593380352-2777037926-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo=tvb探案剧.png tvg-name=tvb探案剧 group-title=电视剧频道,tvb探案剧
+http://dlhls.cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
+#EXTINF:-1 tvg-logo=五星电视剧.png tvg-name=五星电视剧 group-title=电视剧频道,五星电视剧
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225970/1.m3u8
+#EXTINF:-1 tvg-logo=欢笑剧场.png tvg-name=欢笑剧场 group-title=电视剧频道,欢笑剧场
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225963/1.m3u8
+#EXTINF:-1 tvg-logo=GoodTV.png tvg-name=GoodTV group-title=港澳台,GoodTV
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 tvg-logo=GOODTV1.png tvg-name=GOODTV1 group-title=港澳台,GOODTV1
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-logo=GOODTV2.png tvg-name=GOODTV2 group-title=港澳台,GOODTV2
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-logo=GOODTV美食旅游台.png tvg-name=GOODTV美食旅游台 group-title=港澳台,GOODTV美食旅游台
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 tvg-logo=GOODTV生活台.png tvg-name=GOODTV生活台 group-title=港澳台,GOODTV生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 tvg-logo=三立新闻HD.png tvg-name=三立新闻HD group-title=港澳台,三立新闻HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-logo=TVBS新闻港澳台.png tvg-name=TVBS新闻港澳台 group-title=港澳台,TVBS新闻港澳台
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 tvg-logo=澳亚卫视.png tvg-name=澳亚卫视 group-title=港澳台,澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 tvg-logo=澳门卫视.png tvg-name=澳门卫视 group-title=港澳台,澳门卫视
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=RED BULL TV HD.png tvg-name=RED BULL TV HD group-title=其他,RED BULL TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo=MTV HD.png tvg-name=MTV HD group-title=其他,MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-logo=M2O TV HD.png tvg-name=M2O TV HD group-title=其他,M2O TV HD
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 tvg-logo=Music Top (ARG)HD.png tvg-name=Music Top (ARG)HD group-title=其他,Music Top (ARG)HD
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-logo=V2BEAT.png tvg-name=V2BEAT group-title=其他,V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo=SKY NEWS HD.png tvg-name=SKY NEWS HD group-title=其他,SKY NEWS HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-logo=NBC.png tvg-name=NBC group-title=其他,NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-logo=CBC CANADA.png tvg-name=CBC CANADA group-title=其他,CBC CANADA
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1 tvg-logo=WWE经典合集.png tvg-name=WWE经典合集 group-title=体育电竞,WWE经典合集
+https://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-363-0530-1943-17560_mp4hd2v3.m3u8?title=2019WWE%E6%91%94%E8%B7%A4%E7%8B%82%E7%83%AD%E5%A4%A7%E8%B5%9B%5B24h%5D&ver=1.0.0&uid=0&log_type=log_type&aliyun_uuid=96wVE%2FN6QgsCAXApO1E9Y292&cdnQuality=720p&quality=4&ccode=live05010101&expire=21600&psid=897E7194D0F6C9F6C022E6FFF9DEADF8&ups_client_netip=112.41.17.63&ups_ts=1559471983&ups_userid=0&utid=96wVE%2FN6QgsCAXApO1E9Y292&vid=8019485_8024051&fn=03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-363-0530-1943-17560_mp4hd2v3&vkey=B765456c30681e8e8bb1683563aa02395
