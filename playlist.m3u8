@@ -27,6 +27,8 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV13.png tvg-name=CCTV13 group-title=央视频道,CCTV13
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8
+#EXTINF:-1 tvg-logo=CCTV13-1.png tvg-name=CCTV13-1 group-title=央视频道,CCTV13-1
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 tvg-logo=CCTV14.png tvg-name=CCTV14 group-title=央视频道,CCTV14
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 #EXTINF:-1 tvg-logo=CCTV15.png tvg-name=CCTV15 group-title=央视频道,CCTV15
